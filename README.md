@@ -1,21 +1,34 @@
-## Sobre mim👋
-🤔 Estudando programação Back-end, Front-end, Banco de dados.  
-🎓 Estudando (Desenvolvimento de sistemas) no {Senai anchieta}  
-💼 A procura de uma vaga.  
-🔤 inglês. 
-## Competencias:
-<div display="flex" grid="80px">
-  <img src="https://logo.svgcdn.com/l/java.png" width="60px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="60px">
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="60">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+## 👋 Sobre mim
+
+🎯 Estudante de programação com foco em **Back-end**, **Front-end** e **Banco de Dados**.  
+🎓 Atualmente cursando **Desenvolvimento de Sistemas** no *Senai Anchieta*.  
+💼 Em busca da minha primeira oportunidade na área de tecnologia.  
+🌎 Estudando **inglês** para expandir meus conhecimentos e oportunidades.
+
+---
+
+## 🚀 Competências Técnicas
+
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://logo.svgcdn.com/l/java.png" width="50px" title="Java"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50px" title="HTML5"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" title="CSS3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
 </div>
 
-## Psicologico:
-🧠 Inteligincia emocional.  
-🤝 Bom em trabalho em grupo.  
-👦 Comunicativo.   
+---
 
-## Contatos:
+## 🧠 Soft Skills
 
+✔️ Inteligência emocional  
+✔️ Facilidade para trabalho em equipe  
+✔️ Comunicação clara e objetiva  
+
+---
+
+## 📫 Contato
+
+Entre em contato comigo por:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+📧 Email: rodriguessslucas68@gmail.com
 
