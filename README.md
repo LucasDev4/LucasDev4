@@ -29,6 +29,9 @@
 ## 📫 Contato
 
 Entre em contato comigo por:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-rodrigues-121a7a36b/)  
-📧 Email: rodriguessslucas68@gmail.com
+📧 Email: rodriguessslucas68@gmail.com 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lucas-rodrigues-121a7a36b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucas_dev16/)
+
 
