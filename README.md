@@ -1,4 +1,4 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4959baa3-b037-4024-bfaa-163bf0de22d0" />## 👋 Sobre mim
+## 👋 Sobre mim
 
 🎯 Estudante de programação com foco em **Back-end**, **Front-end** e **Banco de Dados**.  
 🎓 Atualmente cursando **Desenvolvimento de Sistemas** no *Senai Anchieta*.  
