@@ -1,4 +1,4 @@
-## 👋 Sobre mim
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/4959baa3-b037-4024-bfaa-163bf0de22d0" />## 👋 Sobre mim
 
 🎯 Estudante de programação com foco em **Back-end**, **Front-end** e **Banco de Dados**.  
 🎓 Atualmente cursando **Desenvolvimento de Sistemas** no *Senai Anchieta*.  
@@ -9,11 +9,15 @@
 
 ## 🚀 Competências Técnicas
 
+
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://logo.svgcdn.com/l/java.png" width="50px" title="Java"/>
+
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50px" title="Java"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50px" title="HTML5"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50px" title="Spring Boot"/>
+
 </div>
 
 ---
