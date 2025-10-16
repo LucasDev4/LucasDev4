@@ -9,17 +9,22 @@
 
 ## 🚀 Competências Técnicas
 
-<div style="display: flex; gap: 10px; align-items: center;">
-
-  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50px" title="Java"/>
+## **Front-end:**  
+<div style="display: flex; gap: 10px; align-items: center; margin-bottom: 10px;">
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" width="50px" title="HTML5"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" width="50px" title="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50px" title="JavaScript"/>
+</div>
+
+##  **Back-end / Banco de Dados:**  
+<div style="display: flex; gap: 10px; align-items: center;">
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" width="50px" title="Java"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50px" title="Spring Boot"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919830.png" width="50px" title="PHP"/>
   <img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="50px" title="Python"/>
   <img src="https://cdn-icons-png.flaticon.com/512/919/919836.png" width="50px" title="MySQL"/>
 </div>
+
 
 ---
 
