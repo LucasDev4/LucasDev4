@@ -81,7 +81,7 @@ Minha rotina atualmente está concentrada em três objetivos principais:
 
 # Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lucas-rodrigues-121a7a36b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/lucas-rodrigues-ferraz-121a7a36b/)
 [![Instagram](https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=ffffff)](https://www.instagram.com/lucas_dev16/)
 [![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=ffffff)](mailto:rodriguessslucas68@gmail.com)
 
