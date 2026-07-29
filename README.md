@@ -1,12 +1,13 @@
-<img src="./assets/banner.jpg" width="100%" />
+<p align="center">
+  <img src="./assets/banner2.webp" width="60%">
+</p>
 
-
-![STATUS](https://img.shields.io/badge/STATUS-EM_FORMAÇÃO-ffffff?style=for-the-badge&labelColor=1a1a1a)
-![STACK](https://img.shields.io/badge/STACK-FULL_STACK-ffffff?style=for-the-badge&labelColor=1a1a1a)
-![LOC](https://img.shields.io/badge/LOC-BRASIL-ffffff?style=for-the-badge&labelColor=1a1a1a)
-![SENAI](https://img.shields.io/badge/SENAI-DS_2026-ffffff?style=for-the-badge&labelColor=1a1a1a)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-EM_FORMAÇÃO-ffffff?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/STACK-FULL_STACK-ffffff?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/LOC-BRASIL-ffffff?style=for-the-badge&labelColor=1a1a1a"/>
+  <img src="https://img.shields.io/badge/SENAI-DS_2026-ffffff?style=for-the-badge&labelColor=1a1a1a"/>
+</p>
 
 # Sobre mim
 
